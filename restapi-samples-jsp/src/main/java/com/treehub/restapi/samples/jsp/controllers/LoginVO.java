@@ -1,5 +1,7 @@
 package com.treehub.restapi.samples.jsp.controllers;
 
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
 import lombok.Getter;
 import lombok.Setter;
 
